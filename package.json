@@ -8,7 +8,7 @@
     "test": "mocha",
     "build": "node co2-calculator.js"
   },
-  "author": "Hemanth Kolli Kannaiah",
+  "author": "Hemanth Kolli",
   "license": "ISC",
   "dependencies": {
     "yargs": "^15.4.1",
